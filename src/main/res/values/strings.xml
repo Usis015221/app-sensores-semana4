@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="Sensores">SENSORES</string>
+<string name="btproximidad"> Proximidad</string>
+    <string name="btacelerometro">Acelerometro</string>
+    <string name="sensor"> SENSOR DE PROXIMIDAD</string>
+
+    <string name="texto"> Sensor Acelerometro</string>
+</resources>
